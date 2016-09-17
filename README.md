@@ -1,6 +1,6 @@
 # Quiz1_887342
 
-# Hello World Program in Ruby ทำข้อ1เสร็จแล้วครับ มีปัญหาตรงที่ยังไม
+# Hello World Program in Ruby ทำข้อ1เสร็จแล้วครับ มีปัญหาตรงไม่ชินกับภาษา Ruby
 US_states = 
 
 	{"Alabama" => "AL",
